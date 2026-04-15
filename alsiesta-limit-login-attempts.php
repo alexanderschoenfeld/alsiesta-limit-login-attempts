@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Alsiesta Limit Login Attempts
- * Plugin URI:  https://github.com/alsiesta/alsiesta-limit-login-attempts
+ * Plugin URI:  https://github.com/alexanderschoenfeld/alsiesta-limit-login-attempts
  * Description: Blocks brute-force login attacks. Auto-blacklists IPs that hit the lockout threshold.
  * Version:     1.3.0
  * Author:      Alsiesta
